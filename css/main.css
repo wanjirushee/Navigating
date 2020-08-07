@@ -1,0 +1,122 @@
+body{
+    
+    background-color: purple;
+    background-size: cover;
+    background-position:top;
+    margin-top:0px;
+    margin-bottom:200px ;
+    padding-left:30px ;
+    margin-right:200px ;
+    padding-top:20px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-bottom:200px ;
+    margin-right:auto ;
+    
+    
+
+}
+header nav ul li a{
+    color:#000;
+    padding:60px;
+    float:left;
+    font-size:30px;
+    text-decoration: none;
+    margin-right: 50px;
+    
+}
+
+header nav ul {
+    list-style:none;
+    padding: 0;
+    
+}
+
+
+header nav ul li a:hover{
+    color:cyan;
+  }
+
+
+h2{
+    font-style: italic;
+    text-align: center;
+}
+
+header nav ul li a{
+    color:#000;
+    padding:60px;
+    float:left;
+    font-size:14px;
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+header nav ul {
+    list-style:none;
+    padding: 0;
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;
+    color:white;
+    font-size:20px;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-family: serif;
+  font-weight: bold;
+  font-size:100px ;
+  font-style: italic;
+
+  font-size: 20px;
+}
+#page_1{
+    float:left;
+    padding-top: 0%;
+    padding-right:10px;
+    padding-left:10px ;
+    font-family: serif;
+    
+}
+
+#float{
+    padding-left:200px  ;
+    float:left;
+}
+
+#page_2{
+    float:left;
+    padding-top: 0%;
+    padding-right: 20px;
+    padding-left: 10px;
+}
+
+#trevor{
+    float:left;
+    padding-left: 20px;
+}
+
+#page_3{
+    text-align: center;
+
+}
+#road{
+    float:left;
+    padding-left: 20px;
+}
+
+#imagine{
+    float:left;
+    padding-left:20px ;
+}
+
+#cover{
+    float: left;
+    text-align:center;
+    padding-left:300px ;
+}
