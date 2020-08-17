@@ -35,12 +35,6 @@ header nav ul {
 
 header nav ul li a:hover{
     color:cyan;
-  }
-
-
-h2{
-    font-style: italic;
-    text-align: center;
 }
 
 header nav ul li a{
@@ -55,6 +49,11 @@ header nav ul li a{
 header nav ul {
     list-style:none;
     padding: 0;
+}
+
+h2{
+    font-style: italic;
+    text-align: center;
 }
 
 p{
